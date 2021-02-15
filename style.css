@@ -2,8 +2,14 @@ body {
   padding: 0;
   margin: 0;
 }
-.contact___info p {
+.contact__info {
   position: absolute;
+  color: #000;
+  margin-top: 600px;
+  text-align: center;
+  margin-left: 41%;
+  background-position: center;
+  align-items: center;
 }
 .banner {
   width: 100%;
