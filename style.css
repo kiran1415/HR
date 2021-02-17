@@ -6,19 +6,16 @@ body {
   position: absolute;
   color: #000000;
   margin-top: 150px;
-  margin-left: 260px;
   text-align: center;
-  max-width: 1000px;
+  width: 100%;
 }
 
 .contact__info {
   position: absolute;
   color: #000;
-  margin-top: 600px;
+  margin-top: 650px;
   text-align: center;
-  margin-left: 41%;
-  background-position: center;
-  align-items: center;
+  width: 100%;
 }
 .banner {
   width: 100%;
@@ -28,7 +25,11 @@ body {
   background-image: url("img/Group\ 230.png");
   background-repeat: no-repeat;
   background-position: center center;
+  text-align: center;
+  display: block;
+  margin: auto;
 }
+
 .container {
   position: relative;
   margin-top: 100px;
